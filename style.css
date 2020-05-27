@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(136, 132, 132);
+}
+div{
+    background-color: rgb(207, 200, 200);
+    display: inline-block;
+    text-align: center;
+    padding-bottom: 30px;
+    border: 1px dotted grey;
+    border-radius: 15px 50px;
+    
+}
+.hour{
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 10px;
+    height: 70px;
+    width: 15%;
+    font-style: oblique;
+}
+.minute{
+    height: 70px;
+    width: 20%;
+    font-style: oblique;
+}
+.second{
+    margin-right: 50px;
+    margin-left: 10px;
+    height: 70px;
+    width: 15%;
+    font-style: oblique;
+}
+.d{
+    margin: 55px 20%;
+    height: 25px;
+    width: 53%;
+    font-weight: bolder;
+    padding: 10px;
+}
